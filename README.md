@@ -19,4 +19,25 @@ This project showcases an AI services platform with sections like features, pric
 - Clean and well-structured code  
 - Reusable components  
 
-## 📁 Project Structure
+## 📌 Sections Included
+- Hero / Banner  
+- About AI Solutions  
+- Services & Features  
+- AI Projects Gallery  
+- Pricing Plans  
+- Testimonials  
+- FAQ Section  
+- Footer  
+
+## 📷 Design Reference
+UI design inspired by the provided **Figma AI Landing Page**.
+
+## 📄 License
+This project is for educational and portfolio purposes.
+
+---
+
+### 👨‍💻 Author
+**Pallab Sarkar**
+
+
