@@ -4,7 +4,7 @@ A modern, responsive AI-focused landing page converted from a Figma design into 
 This project showcases an AI services platform with sections like features, pricing, testimonials, FAQs, and a call-to-action.
 
 ## 🚀 Live Demo
-
+ https://pallabs09.github.io/aivio-ai-charbot/
 
 ## 🛠️ Tech Stack
 - HTML5  
